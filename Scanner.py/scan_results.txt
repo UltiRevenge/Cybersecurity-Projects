@@ -1,0 +1,7 @@
+Scanning 192.168.0.106 from port 1 to 200
+Port 135 is open
+Port 139 is open
+
+--- Scan Summary ---
+Total open ports found: 2
+Open ports: 135, 139
